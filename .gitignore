@@ -1,3 +1,7 @@
 .venv
 Lib
 Scripts
+.qodo
+.vscode
+AGENTS.md
+opencode.json
