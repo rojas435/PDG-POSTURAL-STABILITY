@@ -3,6 +3,12 @@
 
 Este repositorio contiene cuadernos Jupyter y datos JSON para el análisis de temblor e inestabilidad postural mediante sensores inerciales (IMU) en sujetos con Parkinson y controles sanos. El flujo completo cubre: carga robusta de JSON heterogéneos, preprocesamiento de señales, análisis espectral (Welch PSD), detección de temblor en bandas de frecuencia, y clasificación MDS-UPDRS (items 3.14–3.18).
 
+Autores:
+
+* Juan Felipe Jojoa Crespo
+* Juan Sebastian Caviedez
+* Felipe Rojas Prado
+
 ---
 
 ## Requisitos e instalación
@@ -248,7 +254,7 @@ En cumplimiento del nivel 4 del programa del curso, se declara que este proyecto
 
 **Principio aplicado:** Todo código generado por IAG fue revisado, validado y ajustado por los autores para garantizar corrección técnica y alineación con los objetivos clínicos. Las decisiones metodológicas (umbrales, bandas de frecuencia, criterios MDS-UPDRS) fueron definidas por los autores basándose en la literatura clínica referenciada.
 
-**Citación recomendada:**
+**Citación:**
 > Herramientas de IAG (GitHub Copilot, OpenCode) utilizadas en el desarrollo del proyecto *"Análisis de temblor con sensores inerciales (IMU) para la detección de inestabilidad postural en pacientes con Parkinson"*, proyecto de grado PDG, 2025-2026.
 
 Los comentarios `# IAG:` dentro del código fuente de los notebooks identifican las secciones específicas asistidas por estas herramientas.
